@@ -2,6 +2,8 @@
 
 > Apaixonado por tecnologia e programação, transformando ideias em código!
 
+Aqui é o lugar que escolhi para dedicar meu tempo livre, fazendo meus sonhos se tornarem realidade por meio da programação.
+
 ## 🚀 Minhas Principais Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
