@@ -14,14 +14,13 @@
 ## 🛠️ Ferramentas de Desenvolvimento
 
 <code><img height="42" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ"></code>
-<code><img height="42" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f9487e6-12d5-4e90-ada7-af136315b083/dcp7pgo-cb74cb7c-83bf-483c-8756-ada463533963.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBmOTQ4N2U2LTEyZDUtNGU5MC1hZGE3LWFmMTM2MzE1YjA4M1wvZGNwN3Bnby1jYjc0Y2I3Yy04M2JmLTQ4M2MtODc1Ni1hZGE0NjM1MzM5NjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TAglFEmZjJD-sbTce9rDwq7f5MRYhICZY1u4yeIBmNg"></code>
 <code><img height="42" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"></code>
 
 ## ⭐ Informações sobre minha conta GitHub
 
 [![Angelo Hervis](https://github-readme-stats.vercel.app/api?username=angelohervis&theme=dracula)](https://github.com/angelohervis/)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelohervis&hide=html&layout=compact&theme=dracula)](https://github.com/angelohervis/)
+[![Angelo Hervis](https://github-readme-stats.vercel.app/api/top-langs/?username=angelohervis&hide=html&layout=compact&theme=dracula)](https://github.com/angelohervis/)
 
 ## 🔗 Conecte-se comigo
 
