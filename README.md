@@ -17,6 +17,10 @@ Aqui é o lugar que escolhi para dedicar meu tempo livre, fazendo meus sonhos se
 
 <code><img height="42" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ"></code>
 <code><img height="42" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png"></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019-2.svg"></code>
+<code><img height="42" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"></code>
+<code><img height="42" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+
 
 ## ⭐ Informações sobre minha conta GitHub
 
