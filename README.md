@@ -2,7 +2,7 @@
 
 > Apaixonado por tecnologia e programação, transformando ideias em código!
 
-Aqui é o lugar que escolhi para dedicar meu tempo livre, fazendo meus sonhos se tornarem realidade por meio da programação.
+Aqui é o lugar que escolhi para dedicar meu tempo livre, fazendo os meus sonhos se tornarem realidade por meio da programação.
 
 ## 🚀 Minhas Principais Skills
 
