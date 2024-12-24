@@ -17,7 +17,7 @@ I have been addicted to software engineering since 2021, when I started in the p
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,java,mysql,postman,rider,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,java,py,mysql,postman,rider,docker,azure" />
   </a>
 </p>
 
